@@ -16,3 +16,4 @@ function tgl(tanggal) {
 const tanggal = tgl(hasil.date);
 console.info(tanggal);
 console.info(`Wuku: ${hasil.wuku.name}\n${hasil.saptaWara.name} ${hasil.triWara.name} ${hasil.sadWara.name}`);
+console.log('ini tes');
